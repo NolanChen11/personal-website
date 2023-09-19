@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./https://nolanchen11.github.io/personal-website/static/css/main.3caf8588.css",
-    "main.js": "./https://nolanchen11.github.io/personal-website/static/js/main.1a344aed.js",
-    "static/js/787.c81682ee.chunk.js": "./https://nolanchen11.github.io/personal-website/static/js/787.c81682ee.chunk.js",
-    "static/media/grids.svg": "./https://nolanchen11.github.io/personal-website/static/media/grids.ce82f345727ab19dd21d.svg",
-    "index.html": "./https://nolanchen11.github.io/personal-website/index.html",
-    "main.3caf8588.css.map": "./https://nolanchen11.github.io/personal-website/static/css/main.3caf8588.css.map",
-    "main.1a344aed.js.map": "./https://nolanchen11.github.io/personal-website/static/js/main.1a344aed.js.map",
-    "787.c81682ee.chunk.js.map": "./https://nolanchen11.github.io/personal-website/static/js/787.c81682ee.chunk.js.map"
+    "main.css": "/personal-website/static/css/main.f9087195.css",
+    "main.js": "/personal-website/static/js/main.eb4a77a6.js",
+    "static/js/787.c81682ee.chunk.js": "/personal-website/static/js/787.c81682ee.chunk.js",
+    "static/media/grids.svg": "/personal-website/static/media/grids.ce82f345727ab19dd21d.svg",
+    "index.html": "/personal-website/index.html",
+    "main.f9087195.css.map": "/personal-website/static/css/main.f9087195.css.map",
+    "main.eb4a77a6.js.map": "/personal-website/static/js/main.eb4a77a6.js.map",
+    "787.c81682ee.chunk.js.map": "/personal-website/static/js/787.c81682ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3caf8588.css",
-    "static/js/main.1a344aed.js"
+    "static/css/main.f9087195.css",
+    "static/js/main.eb4a77a6.js"
   ]
 }
